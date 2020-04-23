@@ -1,6 +1,6 @@
 # myid
 
-A new Flutter project.
+A basic statless ID app made while learning flutter.
 
 ## Getting Started
 
